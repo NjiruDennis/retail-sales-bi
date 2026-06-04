@@ -223,6 +223,6 @@ jupyter notebook python/retail_eda.ipynb
 **Dennis Njiru Aningu**
 Senior Data Analyst | SQL, Python, Tableau, Power BI, Excel
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/dennisaningu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/dennisnjiru/)
 [![GitHub](https://img.shields.io/badge/GitHub-NjiruDennis-black?logo=github)](https://github.com/NjiruDennis)
 [![Project 1](https://img.shields.io/badge/Project%201-Healthcare%20Claims-teal)](https://github.com/NjiruDennis/healthcare-claims-analytics)
