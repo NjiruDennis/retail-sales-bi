@@ -47,7 +47,7 @@ Tableau (PostgreSQL connector)
   └── Interactive dashboard connected to live database
 ```
 
-> All analysis runs against PostgreSQL. The CSV is used only once for the initial load. Python and Tableau both connect directly to the database — no CSV files used in analysis.
+> All analysis runs against PostgreSQL. The CSV is used only once for the initial load. Python and Tableau both connect directly to the database - no CSV files used in analysis.
 
 ---
 
@@ -178,7 +178,7 @@ Full EDA connected directly to PostgreSQL via SQLAlchemy. No CSV files used in a
 
 4. **Build a seasonal promotions strategy.** The consistent July dip every year is predictable. Pre-July inventory adjustments and targeted promotions in June could smooth revenue and reduce the annual trough.
 
-5. **Develop Canada as a high-margin growth market.** Canada delivers 26.6% margin — more than double the portfolio average - but contributes only $74K in sales. Increasing customer acquisition in Canada would be highly accretive to overall profitability.
+5. **Develop Canada as a high-margin growth market.** Canada delivers 26.6% margin - more than double the portfolio average - but contributes only $74K in sales. Increasing customer acquisition in Canada would be highly accretive to overall profitability.
 
 ---
 
