@@ -114,7 +114,7 @@ Eight advanced queries written in PostgreSQL demonstrating:
 
 | Query | Description |
 |---|---|
-| 1 | Star schema verification — all 5 tables joined, full portfolio overview |
+| 1 | Star schema verification - all 5 tables joined, full portfolio overview |
 | 2 | Sales and profit by market and region with margin ranking |
 | 3 | Product category performance with running profit totals |
 | 4 | Year-over-year sales growth using LAG function |
@@ -172,13 +172,13 @@ Full EDA connected directly to PostgreSQL via SQLAlchemy. No CSV files used in a
 
 1. **Eliminate discounts above 20% immediately.** The business loses $814K on high-discount orders. Cap all discounts at 20% and redirect that margin into APAC expansion where returns are strongest.
 
-2. **Prioritise Copiers and Technology sales.** Copiers generate $259K profit from only 2,120 orders — the highest profit-per-order ratio in the portfolio. A targeted sales push in this sub-category would yield outsized returns.
+2. **Prioritise Copiers and Technology sales.** Copiers generate $259K profit from only 2,120 orders - the highest profit-per-order ratio in the portfolio. A targeted sales push in this sub-category would yield outsized returns.
 
 3. **Investigate EMEA urgently.** At 5.3% margin, EMEA is the only below-average market. Root cause analysis should examine whether high discounting, unfavourable product mix, or high shipping costs are driving this underperformance.
 
 4. **Build a seasonal promotions strategy.** The consistent July dip every year is predictable. Pre-July inventory adjustments and targeted promotions in June could smooth revenue and reduce the annual trough.
 
-5. **Develop Canada as a high-margin growth market.** Canada delivers 26.6% margin — more than double the portfolio average — but contributes only $74K in sales. Increasing customer acquisition in Canada would be highly accretive to overall profitability.
+5. **Develop Canada as a high-margin growth market.** Canada delivers 26.6% margin — more than double the portfolio average - but contributes only $74K in sales. Increasing customer acquisition in Canada would be highly accretive to overall profitability.
 
 ---
 
